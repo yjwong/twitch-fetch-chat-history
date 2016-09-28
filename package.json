@@ -1,0 +1,22 @@
+{
+  "name": "twitch-fetch-chat-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "bluebird": "^3.4.6",
+    "config": "^1.21.0",
+    "inquirer": "^1.1.3",
+    "js-yaml": "^3.6.1",
+    "moment": "^2.15.0",
+    "node-progress": "^0.1.0",
+    "progress": "^1.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
